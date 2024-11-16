@@ -43,12 +43,11 @@ header{
 header > h1{
     color:white;
     font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    font-weight: lighter;
-    font-size: 3.2em;
+    font-size: 3em;
     margin-bottom: 30px;
     padding-left: 20px;
     padding-right: 20px;
-    padding: 1px;
+    padding: 5px;
     text-shadow: 10px 6px 4px black;
 }
 
