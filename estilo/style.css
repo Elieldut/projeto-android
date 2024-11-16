@@ -8,6 +8,12 @@
     font-weight: normal;
 }
 
+@font-face{
+    font-family:'AldotheApache';
+    src: url(../fontes/AldotheApache.ttf) format('truetype');
+
+}
+
 :root{
     --cor0:#c5ebd6;
     --cor1:#83e6af;
@@ -20,6 +26,7 @@
     --font-padrao:arial, verdana, helvetica, sans-serif;
     --font-destaque:'Merriweather';
     --fonte-android:'Android','cursive';
+    --font-AldotheApache:'AldotheApache.ttf';
    }
 
 *{
@@ -42,7 +49,7 @@ header{
 
 header > h1{
     color:white;
-    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-family: var(--font-AldotheApache);
     font-size: 3.9em;
     margin-bottom: 30px;
     padding-left: 20px;
