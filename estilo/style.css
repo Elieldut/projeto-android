@@ -186,7 +186,7 @@ main p{
 }
 
 main h1{
-    color:#002fff;
+    color:#000000;
     font-family:var(--fonte-android);
     background-image: linear-gradient(to left,#c5ebd6,#83e6af);
 }
