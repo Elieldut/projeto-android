@@ -88,9 +88,9 @@ header > p{
         min-width: 300px;
         max-width: 1000px;
         font-size:1.5em ;
-        font-weight: lighter;
+        font-weight: bold;
         font-family: Arial, Helvetica, sans-serif, Courier, monospace;
-        background-color: rgba(255, 255, 255, 0.384);
+        background-color: var(--cor6);
     }
     
     #imp{
@@ -125,7 +125,7 @@ header > p{
 nav{
     background-color: var(--cor5);
     text-align: center;
-    font-size: 1.5em;
+    font-size: 1.2em;
     box-shadow: 0px 9px 15px black  ;
     margin-left: 2px;
     margin-right: 2px;
