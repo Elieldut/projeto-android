@@ -67,7 +67,60 @@ header > p{
     text-shadow: 6px 4px 4px black;
 }
 
-
+.s{
+    text-shadow: 16px 13px 25px ;
+    box-shadow: 10px 13px 62px;  
+    font-size: 3em;
+    text-align: center;
+    padding: 15px;
+    text-decoration: underline; 
+    font-family:var(--fonte-android);
+    background-image: linear-gradient(to bottom,#e8e7bd,#0000002a);
+    
+    
+    }
+    
+    .sp{
+        height: 1000px;
+        text-align:left;
+        padding: 19px;
+        margin: auto;
+        min-width: 300px;
+        max-width: 1000px;
+        font-size:1.5em ;
+        font-weight: lighter;
+        font-family: Arial, Helvetica, sans-serif, Courier, monospace;
+        background-color: rgba(255, 255, 255, 0.384);
+    }
+    
+    #imp{
+        padding: 12%;
+        font-size: 1.8em;
+        text-align: center;
+        font-family: Arial, Helvetica, sans-serif;
+        font-style: italic;
+        font-weight: bold;
+    
+    }
+    
+    #imd{
+        justify-content: space-between;
+        width: 80px;
+        margin: 1%;
+        
+     }
+    
+    .ss{
+        background-image: linear-gradient(to bottom,#e8e7bd,#0000002a);
+        text-shadow: 16px 13px 25px ;
+        box-shadow: 10px 13px 32px;  
+        font-size: 2.5em;
+        text-align: center;
+        padding: 16px;
+        text-decoration: underline;   
+        font-family:var(--fonte-android);
+        
+    }
 
 nav{
     background-color: var(--cor5);
