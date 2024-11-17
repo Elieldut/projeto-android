@@ -207,7 +207,7 @@ aside > h3{
 }
 
 aside > ul{
-    font-size: 1.3em;
+    font-size: 12px;
     list-style-position: inside;
     columns: 2;
 }
